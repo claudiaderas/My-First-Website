@@ -122,7 +122,7 @@ h2{
 
 .quote {
   display: flex;
-  background-image: url(images/vane.jpg);
+  background-image: images/vane.jpg;
   background-size: cover;
   object-fit: cover;
   background-attachment: fixed;
